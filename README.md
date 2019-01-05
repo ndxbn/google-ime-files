@@ -1,5 +1,3 @@
-moved to https://github.com/ndxbn/ndxbn
-
 # IME config files
 
 IME (input method editor) config files.
