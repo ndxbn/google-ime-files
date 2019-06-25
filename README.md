@@ -2,8 +2,6 @@
 
 [Google 日本語入力](https://www.google.co.jp/intl/ja/ime/) 用の設定ファイルと辞書ファイル
 
-[ISSUE 管理はこちら](https://github.com/ndxbn/ndxbn/labels/package%3Agoogle-ime-dictionary)。
-
 使用している、外部の辞書
 
 - https://github.com/peaceiris/google-ime-dictionary
